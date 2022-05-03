@@ -13,11 +13,7 @@ Used language templates in Vivado and changed the configuration for each port:
 
 Photo of the output pattern generated from the FPGA:
 
-
-
-[PHOTO]
-
-
+<img src="hdmi_out.jpg" width=350>
 
 ----------------------------------
 Reference:
